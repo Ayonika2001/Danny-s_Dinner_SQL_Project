@@ -208,4 +208,4 @@ This project demonstrates how SQL can be used to extract valuable insights from 
 
 ---
 
-🔗 *GitHub Repository*: [Danny's Diner SQL Project](https://github.com/Ayonika2001/Danny-s_Dinner_SQL_Project)
+🔗 *GitHub Repository*: [Danny's Diner SQL Project][(https://github.com/Ayonika2001/Danny-s_Dinner_SQL_Project)]
